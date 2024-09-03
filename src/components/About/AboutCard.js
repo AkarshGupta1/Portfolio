@@ -10,7 +10,7 @@ function AboutCard() {
           <p style={{ textAlign: "justify" }}>
             Hi Everyone, I am <span className="purple">Akarsh Gupta </span>
             from <span className="purple"> Chandigarh, India.</span>
-            <br />I am pursuing Bachelor of Engineering in Computer Science from Chitkara University.
+            <br />Recently, I completed Bachelor of Engineering in Computer Science from Chitkara University.
             <br />
             <br />
             Apart from coding, some other activities that I love to do!
